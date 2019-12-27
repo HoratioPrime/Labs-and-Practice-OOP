@@ -4,7 +4,7 @@ import java.io.RandomAccessFile;
 public class FileTest {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        String FILE_PATH  = "C:\\Users\\Horatio\\IdeaProjects\\OOPlab8\\myFile.txt";
+        String FILE_PATH = "C:\\Users\\Horatio\\IdeaProjects\\OOPlab8\\myFile.txt";
         try {
             RandomAccessFile myFile = new RandomAccessFile(FILE_PATH, "rw");
             String MENU = "Выберите что вы хотите сделать:\n" +
@@ -15,7 +15,7 @@ public class FileTest {
             System.out.println(MENU);
 
             int mode = in.nextInt();
-            while(mode != 4) {
+            while (mode != 4) {
                 switch (mode) {
                     case 1:
                         System.out.println("Введите текст для перезаписи файла:");
@@ -35,8 +35,8 @@ public class FileTest {
                         System.out.println("Содержимое файла:");
                         int c;
                         myFile.seek(0);
-                        while((c=myFile.read())!=-1){
-                            System.out.print((char)c);
+                        while ((c = myFile.read()) != -1) {
+                            System.out.print((char) c);
                         }
                         System.out.println();
                         break;
@@ -44,8 +44,7 @@ public class FileTest {
                 System.out.println(MENU);
                 mode = in.nextInt();
             }
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             System.out.println("Ничего не работает!");
         }
     }

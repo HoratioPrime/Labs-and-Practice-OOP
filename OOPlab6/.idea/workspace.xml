@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f02641c7-6d52-4438-867e-5da35f5e53c2" name="Default Changelist" comment="" />
+    <list default="true" id="f02641c7-6d52-4438-867e-5da35f5e53c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../MVC/MVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOPpractice12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab10/OOPLab10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab12/OOPLab12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab12/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab9/OOPLab9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPLab9/src/Exception1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPlab2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPlab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPlab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPlab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPlab7/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice1-2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice8/OOPpractice8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice8/src/TestWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice9/OOPpractice9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice9/src/INN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPpractice9/src/WrongINNException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatternsTesting/PatternsTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab7/src/MyArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab7/src/MyArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPlab8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPlab8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice1-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice1-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/OOPpractice7(version2).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/out/production/OOPpractice7(version2)/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/out/production/OOPpractice7(version2)/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/out/production/OOPpractice7(version2)/TestGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/src/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7(version2)/src/TestGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOPpractice7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOPpractice7/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +68,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RKwywqyxJLC3P57NXG3pxNDh6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OOPlab7" />
   </component>
@@ -57,5 +114,16 @@
       <updated>1569429353556</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

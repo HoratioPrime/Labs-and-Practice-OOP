@@ -132,30 +132,37 @@ public class MyArrayList <Type> {
         }
     }
 
-    private void QuickSort(int start, int end, Comparator<? super Type> comp) {
-        if (start >= end)
-            return;
-        int i = start, j = end;
-        int cur = i - (i - j) / 2;
-        while (i < j) {
-            while (i < cur && comp.compare((Type) elements[i], (Type) elements[cur]) <= 0) {
+    @Override
+    public String toString() {
+        return "MyArrayList{" +
+                "elements=" + Arrays.toString(elements) +
+                '}';
+    }
+
+    private void QuickSort(Integer left, Integer right, Comparator<? super Type> comp) {
+        Integer i = left, j = right;
+        Integer cur =  (left + right) / 2;
+        while (i <= j) {
+            while (comp.compare((Type) elements[i], (Type) elements[cur]) < 0) {
                 i++;
             }
-            while (j > cur && comp.compare((Type) elements[i], (Type) elements[cur]) <= 0) {
+            while (comp.compare((Type) elements[j], (Type) elements[cur]) > 0) {
                 j--;
             }
-            if (i < j) {
+            if (i <= j) {
                 Type temp = (Type)elements[i];
                 elements[i] = elements[j];
                 elements[j] = temp;
-                if (i == cur)
-                    cur = j;
-                else if (j == cur)
-                    cur = i;
+                i++;
+                j--;
             }
         }
-        QuickSort(start, cur, comp);
-        QuickSort(cur+1, end, comp);
+        if(left < j) {
+            QuickSort(left, j, comp);
+        }
+        if(i < right) {
+            QuickSort(i, right, comp);
+        }
     }
 
 }
